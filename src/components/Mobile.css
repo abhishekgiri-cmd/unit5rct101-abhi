@@ -1,0 +1,10 @@
+.listTag{
+    text-align: center;
+}
+.list{
+    text-align: justify;
+   /* display: flex; */
+   width: 20%;
+   margin: auto;
+    /* margin-right: 150px; */
+}
